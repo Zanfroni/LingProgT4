@@ -30,7 +30,6 @@ fun readFile(filename) =
 	
 (* Esta funcao deveria ser o gerador do txt validado *)
 (* Esta funcao foi adaptada de https://stackoverflow.com/questions/43729134/how-to-output-a-string-list-to-a-textfile-in-sml *)
-
 (* Ela deve pegar a lista de palavras validadas e escrever em txt *)
 (* Cada palavra da lista e separada por \n *)
 fun writeFile(list) =
